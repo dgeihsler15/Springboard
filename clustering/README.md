@@ -1,0 +1,3 @@
+## Clustering
+
+In this excercise we take a look at information on a wine company's marketing newsletters, e-mail campaigns, and transaction level data from their customers. Based on customer purchasing behavior and their response to different offers, we look to use KMeans clustering to group like minded customers. This excercise runs through different methods of choosing k and visualizing the clusters using PCA.

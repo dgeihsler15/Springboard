@@ -8,8 +8,8 @@ The data is taken from Yelp's public dataset which is available on their website
 
 A final report and slide deck are provided to detail the scope of the project, its key findings, and recommendations. The code behind the analysis can be found in the following IPython Notebooks:
 
-data_import.ipynb
-exploratory_analysis.ipynb
-hypothesis_testing.ipynb
-machine_learning_analysis.ipynb
+data_import.ipynb, 
+exploratory_analysis.ipynb, 
+hypothesis_testing.ipynb, 
+machine_learning_analysis.ipynb, 
 additional_analysis_bigrams.ipynb
